@@ -1,0 +1,31 @@
+{
+    "name": "Accelorometer_2",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "pxt-mecanum-robot-V2": "github:keyestudio2019/mecanum_robot_v2#f161a000ae13c11373ee2549d0a6147e103ff3cf"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.25",
+        "tag": "v6.0.25",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/f72136f1d01face3fc76caffa5343af1db369a37",
+        "target": "6.0.25",
+        "pxt": "9.0.15",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
